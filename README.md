@@ -1,4 +1,4 @@
-Silicon Savannah listing for [slcon.org/](http://slcon.org/)
+Silicon Savannah listing for [slcon.org/](http://slcon.org)
 ==========================================================
 
 To add yourself:
